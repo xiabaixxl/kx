@@ -1,0 +1,10 @@
+ipv6.aibeta.eu.org:2096#IPv6域名
+ssl.aibeta.eu.org:2053#官方域名
+www.wto.org:2053#优选域名
+cf.zhetengsha.eu.org:2053#优选域名
+malaysia.com:2053#优选域名
+russia.com:2053#优选域名
+singapore.com:2053#优选域名
+www.iplocation.net:2053#优选域名
+edtunnel-dgp.pages.dev:2053#优选域名
+aliyun.2096.us.kg:2096#反代域名
