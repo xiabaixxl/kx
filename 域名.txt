@@ -1,21 +1,21 @@
-time.is:443#优选域名
-www.ipchicken.com:443#优选域名
-iplocation.io:443#优选域名
-russia.com:443#优选域名
-ip.sb:443#优选域名
-www.whoer.net:443#优选域名
-www.visakorea.com:443#优选域名
-www.gov.se:443#优选域名
-www.gov.ua:443#优选域名
-www.gco.gov.qa:443#优选域名
-www.csgo.com:443#优选域名
-www.wto.org:443#优选域名
-gur.gov.ua:443#优选域名
-www.visa.com.tw:443#优选域名
-www.visa.com.sg:443#优选域名
-www.baipiao.eu.org:443#优选域名
-www.whatismyip.com:443#优选域名
-icook.hk:443#优选域名
+time.is:2053#优选域名
+www.ipchicken.com:2053#优选域名
+iplocation.io:2053#优选域名
+russia.com:2053#优选域名
+ip.sb:2053#优选域名
+www.whoer.net:2053#优选域名
+www.visakorea.com:2053#优选域名
+www.gov.se:2053#优选域名
+www.gov.ua:2053#优选域名
+www.gco.gov.qa:2053#优选域名
+www.csgo.com:2053#优选域名
+www.wto.org:2053#优选域名
+gur.gov.ua:2053#优选域名
+www.visa.com.tw:2053#优选域名
+www.visa.com.sg:2053#优选域名
+www.baipiao.eu.org:2053#优选域名
+www.whatismyip.com:2053#优选域名
+icook.hk:2053#优选域名
 
 
 
