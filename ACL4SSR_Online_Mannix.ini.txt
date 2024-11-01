@@ -371,9 +371,9 @@ custom_proxy_group=✈️ ‍起飞`select`[]⚡ ‍低延迟`[]👆🏻 ‍指�
 
 custom_proxy_group=⚡ ‍低延迟`url-test`^`https://i.ytimg.com/generate_204`30,,100
 custom_proxy_group=👆🏻 ‍指定`select`^
-custom_proxy_group=📶 域名优选`load-balance`(域名)`https://i.ytimg.com/generate_204`30,,100
-custom_proxy_group=🌏 CU优选`load-balance`(CU)`https://i.ytimg.com/generate_204`30,,100
-custom_proxy_group=🌏 CT优选`load-balance`(CT)`https://i.ytimg.com/generate_204`30,,100
+custom_proxy_group=📶 域名优选`url-test`(域名)`https://i.ytimg.com/generate_204`30,,100
+custom_proxy_group=🌏 CU优选`url-test`(CU)`https://i.ytimg.com/generate_204`30,,100
+custom_proxy_group=🌏 CT优选`url-test`(CT)`https://i.ytimg.com/generate_204`30,,100
 
 custom_proxy_group=🛩️ ‍墙内`select`[]DIRECT`[]REJECT`[]✈️ ‍起飞
 custom_proxy_group=💩 ‍广告`select`[]REJECT`[]🛩️ ‍墙内`[]✈️ ‍起飞
