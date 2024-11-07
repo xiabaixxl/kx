@@ -367,13 +367,13 @@ emoji=^(?!.*[🇦-🇿]{2}).*(中[国國]|[广廣贵貴]州|深圳|北京|上海
 emoji=^(?!.*[🇦-🇿]{2}).*(?i:(?<![\da-z.])CH?N(?!\d*[a-z])|China),🇨🇳
 emoji=^(?!.*([🇦-🇿]{2}|ℹ️)).*(官.?网|官方|产品|平台|勿连|修复|恢复|更新|地址|网站|网址|域名|网域|浏览器|导航|群|裙|聊|频道|电报|飞机|扣|微信|售后|客服|工单|联系|使用|购买|续费|公告|版本|出现|没网|情况|开通|数量|注|说明|通知|去除|@|(?i:(?<![\da-z])(tg|telegram|t\.me|qq?|vx?|wx)(?!\d*[a-z]))),ℹ️
 
-custom_proxy_group=✈️ ‍起飞`select`[]⚡ ‍低延迟`[]👆🏻 ‍指定`[]📶 域名优选`[]🌏 CU优选`[]🌏 CT优选`[]DIRECT
+custom_proxy_group=✈️ ‍起飞`select`[]⚡ ‍低延迟`[]👆🏻 ‍指定`[]🌏 CU优选`[]🌏 CT优选`[]📶 域名优选`[]DIRECT
 
 custom_proxy_group=⚡ ‍低延迟`url-test`^`https://i.ytimg.com/generate_204`30,,100
 custom_proxy_group=👆🏻 ‍指定`select`^
-custom_proxy_group=📶 域名优选`url-test`(域名)`https://i.ytimg.com/generate_204`30,,100
 custom_proxy_group=🌏 CU优选`url-test`(CU)`https://i.ytimg.com/generate_204`30,,100
 custom_proxy_group=🌏 CT优选`url-test`(CT)`https://i.ytimg.com/generate_204`30,,100
+custom_proxy_group=📶 域名优选`url-test`(域名)`https://i.ytimg.com/generate_204`30,,100
 
 custom_proxy_group=🛩️ ‍墙内`select`[]DIRECT`[]REJECT`[]✈️ ‍起飞
 custom_proxy_group=💩 ‍广告`select`[]REJECT`[]🛩️ ‍墙内`[]✈️ ‍起飞
