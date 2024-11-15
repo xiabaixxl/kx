@@ -24,4 +24,4 @@ cfip.xxxxxxxx.tk:443#OTC域名
 bestcf.onecf.eu.org:443#Mingyu域名
 cf.zhetengsha.eu.org:443#小一域名
 www.baipiao.eu.org:443#baipiao域名
-www.gov.se:2053#gov域名
+www.gov.se:443#gov域名
