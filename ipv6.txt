@@ -16,4 +16,12 @@
 [2606:4700:e1:0:a68a:de8:fab8:b159]:2096#CT-IPv6
 [2606:4700:e1:c082:59d6:6004:e2ae:5790]:2096#CT-IPv6
 
-www.gov.se:2053#优选域名
+ipv6.aibeta.eu.org:2096#CU-IPv6域名
+ssl.aibeta.eu.org:443#官方域名
+cf.090227.xyz:443#CM域名
+icook.hk:443#icook域名
+cfip.xxxxxxxx.tk:443#OTC域名
+bestcf.onecf.eu.org:443#Mingyu域名
+cf.zhetengsha.eu.org:443#小一域名
+www.baipiao.eu.org:443#baipiao域名
+www.gov.se:2053#gov域名
