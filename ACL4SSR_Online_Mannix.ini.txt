@@ -369,7 +369,7 @@ emoji=^(?!.*([🇦-🇿]{2}|ℹ️)).*(官.?网|官方|产品|平台|勿连|修�
 
 custom_proxy_group=✈️ ‍起飞`select`[]⚡ ‍低延迟`[]👆🏻 ‍指定`[]🌏 CU优选`[]🌏 内网`[]📶 域名优选`[]DIRECT
 
-custom_proxy_group=⚡ ‍低延迟`url-test`^`https://i.ytimg.com/generate_204`30,,100
+custom_proxy_group=⚡ ‍低延迟`url-test`[]🌏 CU优选`[]🌏 内网`[]📶 域名优选`https://i.ytimg.com/generate_204`30,,100
 custom_proxy_group=👆🏻 ‍指定`select`^
 custom_proxy_group=🌏 CU优选`url-test`(CU)`https://i.ytimg.com/generate_204`30,,100
 custom_proxy_group=🌏 内网`url-test`(内网)`https://i.ytimg.com/generate_204`30,,100
