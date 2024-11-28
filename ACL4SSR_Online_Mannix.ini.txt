@@ -372,7 +372,7 @@ custom_proxy_group=✈️ ‍起飞`select`[]⚡ ‍低延迟`[]👆🏻 ‍指�
 custom_proxy_group=⚡ ‍低延迟`url-test`^`https://i.ytimg.com/generate_204`30,,100
 custom_proxy_group=👆🏻 ‍指定`select`^
 custom_proxy_group=🌏 CU优选`url-test`(CU)`https://i.ytimg.com/generate_204`30,,100
-custom_proxy_group=🌏 内网`url-test`(CT)`https://i.ytimg.com/generate_204`30,,100
+custom_proxy_group=🌏 内网`url-test`(内网)`https://i.ytimg.com/generate_204`30,,100
 custom_proxy_group=📶 域名优选`url-test`(域名)`https://i.ytimg.com/generate_204`30,,100
 
 custom_proxy_group=🛩️ ‍墙内`select`[]DIRECT`[]REJECT`[]✈️ ‍起飞
